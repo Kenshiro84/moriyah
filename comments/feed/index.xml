@@ -6,13 +6,38 @@
 	
 	>
 <channel>
-	<title>Commentaires pour www.moriyah.org</title>
-	<atom:link href="https://kenshiro84.github.io/moriyah/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://kenshiro84.github.io/moriyah</link>
+	<title>
+	Commentaires pour www.moriyah.org	</title>
+	<atom:link href="https://moriyah.org/moriyah/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://moriyah.org/moriyah</link>
 	<description></description>
-	<lastBuildDate>Sat, 23 Feb 2019 21:50:34 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.3</generator>
-</channel>
+	<lastBuildDate>Mon, 10 Jun 2019 01:55:42 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+			<item>
+				<title>
+				Commentaires sur Bienvenue par admin				</title>
+				<link>https://moriyah.org/moriyah/bienvenue/#comment-3</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 10 Jun 2019 01:52:12 +0000</pubDate>
+		<guid isPermaLink="false">https://moriyah.org/moriyah/?page_id=179#comment-3</guid>
+					<description><![CDATA[tufuyvoibutxiviytutcvuogbk]]></description>
+		<content:encoded><![CDATA[<p>tufuyvoibutxiviytutcvuogbk</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				Commentaires sur Bienvenue par admin				</title>
+				<link>https://moriyah.org/moriyah/bienvenue/#comment-2</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 10 Jun 2019 01:45:49 +0000</pubDate>
+		<guid isPermaLink="false">https://moriyah.org/moriyah/?page_id=179#comment-2</guid>
+					<description><![CDATA[hhhkibino,o,nlk,k,lk]]></description>
+		<content:encoded><![CDATA[<p>hhhkibino,o,nlk,k,lk</p>
+]]></content:encoded>
+						</item>
+			</channel>
 </rss>

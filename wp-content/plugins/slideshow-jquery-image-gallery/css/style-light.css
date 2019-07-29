@@ -57,7 +57,7 @@
 	width: 32px;
 	height: 32px;
 	margin: -16px 0 0 -16px;
-	background: url('../images/SlideshowPlugin/loading-icon-128x128.gif') no-repeat;
+	background: url('https://moriyah.org/moriyah/wp-content/plugins/slideshow-jquery-image-gallery/images/SlideshowPlugin/loading-icon-128x128.gif') no-repeat;
 	background-size: 32px 32px;
 }
 
@@ -81,18 +81,18 @@
 .slideshow_container_style-light .slideshow_controlPanel ul li:hover { }
 
 .slideshow_container_style-light .slideshow_play {
-	background: url('../images/SlideshowPlugin/light-controlpanel.png') 0 0 no-repeat;
+	background: url('https://moriyah.org/moriyah/wp-content/plugins/slideshow-jquery-image-gallery/images/SlideshowPlugin/light-controlpanel.png') 0 0 no-repeat;
 }
 
 .slideshow_container_style-light .slideshow_pause {
-	background: url('../images/SlideshowPlugin/light-controlpanel.png') -15px 0 no-repeat;
+	background: url('https://moriyah.org/moriyah/wp-content/plugins/slideshow-jquery-image-gallery/images/SlideshowPlugin/light-controlpanel.png') -15px 0 no-repeat;
 }
 
 .slideshow_container_style-light .slideshow_button {
 	margin-top: -20px;
 	height: 40px;
 	width: 19px;
-	background: url('../images/SlideshowPlugin/light-arrows.png') no-repeat;
+	background: url('https://moriyah.org/moriyah/wp-content/plugins/slideshow-jquery-image-gallery/images/SlideshowPlugin/light-arrows.png') no-repeat;
 }
 
 .slideshow_container_style-light .slideshow_previous { }
@@ -116,5 +116,5 @@
 	margin: 0 2px;
 	width: 11px;
 	height: 11px;
-	background: url('../images/SlideshowPlugin/light-bullet.png') no-repeat;
+	background: url('https://moriyah.org/moriyah/wp-content/plugins/slideshow-jquery-image-gallery/images/SlideshowPlugin/light-bullet.png') no-repeat;
 }
